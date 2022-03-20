@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="style.css" />
 <?php
 $servername = "localhost";
-$username = "add your sql username here";
-$password = "add your sql password here";
+$username = "ritambanerjee27@gmail.com";
+$password = "CorvoAttano@1";
 $dbname = "railway";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
